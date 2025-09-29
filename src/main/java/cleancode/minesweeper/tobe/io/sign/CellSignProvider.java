@@ -4,7 +4,6 @@ import cleancode.minesweeper.tobe.cell.CellSnapshot;
 import cleancode.minesweeper.tobe.cell.CellSnapshotStatus;
 
 import java.util.Arrays;
-import java.util.Optional;
 
 public enum CellSignProvider implements CellSignProvidable {
 
